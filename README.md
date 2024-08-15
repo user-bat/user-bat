@@ -1,7 +1,7 @@
-# 👋 Hi, I’m @user-bat
----
+<h1 align="center">Hi there, I'm <a href="https://t.me/unmut3_mut3" target="_blank">𝗥𝗼𝗺𝗮</a>
 
-<p>this my home</p>
-<a href="https://discord.gg/kaori">open</a>
+ ↗ <a href="https://discord.gg/kaori"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=80C2B9&background=91FF8100&width=435&lines=this+my+home" alt="Typing SVG" /></a>
 
-<img src="file:///C:/Users/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD/Documents/Dedsec_red/dedsec_red.jpg" ></img>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+
