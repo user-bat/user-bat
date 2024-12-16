@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/bqlwaecrkthyauti" target="_blank"]>𝗥𝗼𝗺𝗮</a>
+<h1 align="center">Hi there, I'm <a href="https://t.me/qwertyuiopasdfghjklzxcvbnmfsnvcx" target="_blank"]>𝗥𝗼𝗺𝗮</a>
 
- ↗ <a href="https://discord.gg/Z4Y8AEUzFe"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=80C2B9&background=91FF8100&width=435&lines=this+my+home" alt="Typing SVG" /></a>
+ ↗ <a href="https://t.me/bqlwaecrkthyauti"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=80C2B9&background=91FF8100&width=435&lines=this+my+home" alt="Typing SVG" /></a>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
